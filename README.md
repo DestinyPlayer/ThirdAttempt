@@ -38,12 +38,14 @@ This Axiom allows the device it's used in to apply damage in more ways than just
 Example: Ray gun, mining laser.
 
 ### Metapropi - transformation, mutation. 
-Thix Axiom allows the device it's used in to 
-Prostasia - protection, defense. 
+This Axiom allows the device it's used in to change objects. Turning blocks into other blocks, turning mobs into other mobs or changing their characteristics, etc.
+
+Example: Philosopher's gun, Creeper defuser
+
+### Prostasia - protection, defense. 
 Duh, probably.
 
 ### Skafoi - Travel, movement. 
 Teleporters, speed-uppers, dimension-travelers, etc.
 		
 ## THEORY
-
