@@ -2,15 +2,14 @@
 {
   "modid": "examplemod",
   "name": "Example Mod",
-  "description": "A mod for learning and testing purposes",
+  "description": "Example Mod to learn with",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
   "authorList": ["DestinyPlayer"],
-  "credits": "The Forge and FML guys, for making this example","McJty for providing tutorials",
+  "credits": "Forge",
   "logoFile": "",
-  "screenshots": [],
-  "dependencies": []
+  "screenshots": []
 }
 ]
